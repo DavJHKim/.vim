@@ -1,0 +1,16 @@
+syntax on
+colorscheme darkblue
+
+set ic
+set is
+set hlsearch
+
+set number
+
+set wildmenu
+
+set cursorline
+
+set cursorcolumn
+set colorcolumn=80
+highlight CursorLine cterm=NONE ctermbg=darkgray guibg=#2e2e2e
