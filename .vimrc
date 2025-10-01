@@ -14,3 +14,7 @@ set cursorline
 set cursorcolumn
 set colorcolumn=80
 highlight CursorLine cterm=NONE ctermbg=darkgray guibg=#2e2e2e
+
+set tabstop=2
+set shiftwidth=2
+set expandtab
